@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>We Are Scientists Tribute Page </title>
+</head>
+<img scr=http://wearescientists.com/wp-content/uploads/we_are_scientists_about.jpg>
+<body>
+<h1> Bio </h1>
+    <p> We Are Scientists is a New York City band formed in Berekley, California in 2000.
+    Consisting of Keith Murray (vocals, guitar) and Chris Cain (bass, vocals), the band had released six albums in the last 20 years.
+    </p>
+
+<h2> Members </h2>
+<ul>
+    <li> Keith Murray - Vocals, Guitar (2000 - Present) </li>
+    <li> Chris Cain - Bass, Vocals (2000 - Present) </li>
+    <li> Keith Carne - Drums, Vocals (2013 - Present) </li>
+    <li> Michael Tapper - Drums (2000 - 2007) </li>
+    <li> Andy Burrows - Drums (2009 - 2014) </li>
+ </ul>
+
+<h3> My Favorite Song </h3>
+<link>youtube.com/embed/eUHfmme7iow&ab_channel=ErictheGross </link>
+    
+</body>
+</html>

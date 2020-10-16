@@ -1,0 +1,9 @@
+* { 
+    margin: 427;
+    padding: 720;
+}
+
+.wrapper {
+    margin: 427 auto;
+    width: 1000px
+}
